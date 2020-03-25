@@ -1,7 +1,7 @@
 Class {
 	#name : #BaselineOfTicTacToe,
 	#superclass : #BaselineOf,
-	#category : #'BaselineOfTicTacToe-Game-Sample'
+	#category : #BaselineOfTicTacToeGameSample
 }
 
 { #category : #baselines }
