@@ -1,11 +1,11 @@
 Class {
-	#name : #BaselineOfTicTacToe,
+	#name : #BaselineOfTicTacToeGameSample,
 	#superclass : #BaselineOf,
 	#category : #BaselineOfTicTacToeGameSample
 }
 
 { #category : #baselines }
-BaselineOfTicTacToe >> baseline: spec [
+BaselineOfTicTacToeGameSample >> baseline: spec [
 	<baseline>
 	spec
 		for: #common
@@ -17,6 +17,6 @@ BaselineOfTicTacToe >> baseline: spec [
 ]
 
 { #category : #accessing }
-BaselineOfTicTacToe >> projectClass [
+BaselineOfTicTacToeGameSample >> projectClass [
 	^ MetacelloCypressBaselineProject
 ]
