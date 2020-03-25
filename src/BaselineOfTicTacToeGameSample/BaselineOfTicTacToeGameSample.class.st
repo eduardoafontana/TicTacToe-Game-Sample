@@ -11,7 +11,7 @@ BaselineOfTicTacToeGameSample >> baseline: spec [
 		for: #common
 		do: [
 			spec
-				package: 'TicTacToe-Game-Sample'.
+				package: 'TicTacToeGameSample'.
 		].
 
 ]
